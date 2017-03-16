@@ -1,0 +1,6 @@
+/Users/bin_zhang/Development/ChibiOS-test/build/CMakeFiles/rebuild_cache.dir
+/Users/bin_zhang/Development/ChibiOS-test/build/CMakeFiles/chibiosf1.elf.hex.dir
+/Users/bin_zhang/Development/ChibiOS-test/build/CMakeFiles/edit_cache.dir
+/Users/bin_zhang/Development/ChibiOS-test/build/CMakeFiles/flash.dir
+/Users/bin_zhang/Development/ChibiOS-test/build/CMakeFiles/chibiosf1.elf.bin.dir
+/Users/bin_zhang/Development/ChibiOS-test/build/CMakeFiles/chibiosf1.elf.dir

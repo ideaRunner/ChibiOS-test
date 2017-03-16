@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+d3bb5c9e46230e153fa5030cc4ac1243 CMakeFiles/chibiosf1.elf.bin
+ddf7c2bcd3ad106d802c3bcfc6232623 CMakeFiles/chibiosf1.elf.hex
+2a675f5913cd9c5355039f0e91e0c9b8 CMakeFiles/flash
